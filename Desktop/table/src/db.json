@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Neil Sims",
+      "job": "React Developer",
+      "review": "Online",
+      "imgUrl": "https://demos.creative-tim.com/purity-ui-dashboard-pro/static/media/avatar4.54d5c1de.png"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "job": "Backend Developer",
+      "review": "Offline",
+      "imgUrl": "https://demos.creative-tim.com/purity-ui-dashboard-pro/static/media/avatar1.eeef2af6.png"
+    }
+  ]
+}
